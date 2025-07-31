@@ -1,4 +1,4 @@
-# 🛡️ SOC Analyst Lab Project: Detecting Cyber Attacks Using Splunk SIEM
+# 🛡️ SIEM Attack Detection Lab Project: Detecting Cyber Attacks Using Splunk SIEM
 
 ## 📌 Overview
 
